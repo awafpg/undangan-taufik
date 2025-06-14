@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
